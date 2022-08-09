@@ -1,6 +1,6 @@
-#Hi! 
+# Hi! 
 
-###My name is Matt!
+### My name is Matt!
 
 
 I'm a software engineer, photographer, artist, traveler, critter, gamer, and avid D&D enthusiast. ***So, basically I'm a giant nerd.***
@@ -15,7 +15,7 @@ My personal philosophy has long read:
 
 ***Light. Changes. Everything.*** 
 
--
+---
 
 ### *Some of my favorite words from the minds of others:* 
 
