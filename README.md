@@ -11,9 +11,8 @@ I love creating, and building things with code. I can just as easily get lost fo
 
 My greatest artistic inspirations can be found in the works of Ansel Adams, Dieter Appelt, Joseph Beuys, the philosophies of Roland Gérard Barthes, the complete imaginative storytelling prowess of the *Critical Role* cast, the writing of Neil Gaiman, animation from Japan, and anything involving dungeons, dragons, *or* both dungeons ***and*** dragons.
 
-My personal philosophy has long read:
+My personal philosophy has long read: ***Light. Changes. Everything.*** 
 
-***Light. Changes. Everything.*** 
 
 ### *Some of my favorite words from the minds of others:* 
 
