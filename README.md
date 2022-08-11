@@ -13,7 +13,7 @@ My greatest artistic inspirations can be found in the works of Ansel Adams, Diet
 
 My personal philosophy has long read: ***Light. Changes. Everything.*** 
 
-If you want to check out some of my photos there's a handful posted [here](imattking.com)
+If you want to check out some of my photos there's a handful posted [here](https://www.imattking.com)
 
 ***
 
