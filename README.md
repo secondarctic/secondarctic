@@ -13,6 +13,9 @@ My greatest artistic inspirations can be found in the works of Ansel Adams, Diet
 
 My personal philosophy has long read: ***Light. Changes. Everything.*** 
 
+If you want to check out some of my photos there's a handful posted [here](imattking.com)
+
+***
 
 ### *Some of my favorite words from the minds of others:* 
 
@@ -23,7 +26,8 @@ My personal philosophy has long read: ***Light. Changes. Everything.***
 
 **"I am the master of my fate, <br> I am the captain of my soul."**  — *William Ernest Henley*. 
 
+***
 
-## My hopes for the future
+### My hopes for the future
 
 I have an interest in contributing to open source projects, and I want build things that help make people's lives better and that make the world better a place.
