@@ -28,6 +28,6 @@ If you want to check out some of my photos there's a handful posted [here](https
 
 ***
 
-### My hopes for the future
+### Going forward: 
 
 I have an interest in contributing to open source projects, and I want build things that help make people's lives better and that make the world better a place.
