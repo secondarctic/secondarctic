@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Node, Express, Mongo, and React**
 
-- 👨‍💻 There are a few live demos of my projects available at [imattking.dev](imattking.dev)
+- 👨‍💻 There are a few live demos of my projects available at [imattking.dev](https://imattking.dev)
 
 - 💻 Some of my application testing and other sandboxes can be seen on my [Codepen](https://codepen.io/imattking)
 
-- 📸 If you're interested in seeing a few of my photographs you can do that here: [imattking.com](imattking.com)
+- 📸 If you're interested in seeing a few of my photographs you can do that here: [imattking.com](https://imattking.com)
 
 - 📫 How to reach me: **matt@imattking.com**
 
