@@ -37,7 +37,7 @@ My personal philosophy has long read: ***Light. Changes. Everything.***
 
 ### Going forward: 
 
-I have an interest in contributing to open source projects, and I want build things that help make people's lives better and that make the world better a place.
+I have an interest in contributing to open source projects, and I want to build things that help make people's lives better and that make the world better a place.
 
 ***
 
