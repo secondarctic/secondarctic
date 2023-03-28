@@ -14,17 +14,18 @@
 - 📫 How to reach me: **matt@imattking.com**
 
 
-I love creating, and building things with code. I can just as easily get lost for hours fine-tuning CSS or iterating through array methods, as I can retouching a photograph, playing a video game, watching an episode of *Critical Role*, or reading a book. 
+I love creating, and building things with code. I can just as easily get lost for hours fine-tuning CSS selectors or iterating through array methods, as I can retouching a photograph, playing a video game, watching an episode of *Critical Role*, or reading a book. 
 
-**Software engineering is my passion**, and it is at the forefront of my endeavors! My background is tethered to more *'aesthetic'* disciplines. I have a Bachelor of Arts in Journalism (specializing in video production) from the University of Georgia, and a Master of Fine Arts in Photography from the Savannah College of Art & Design.
+**Software engineering is my passion**, and it is at the forefront of my endeavors! My background is rooted in more *'aesthetic'* disciplines. I have a Bachelor of Arts in Journalism (specializing in video production) from the University of Georgia, and a Master of Fine Arts in Photography from the Savannah College of Art & Design.
 
-My greatest artistic inspirations can be found in the works of Ansel Adams, Dieter Appelt, Joseph Beuys, the philosophies of Roland Gérard Barthes, the complete imaginative storytelling prowess of the *Critical Role* cast, the writing of Neil Gaiman, animation from Japan, and anything involving dungeons, dragons, *or* both dungeons ***and*** dragons.
+My greatest artistic inspirations can be found in the works of Ansel Adams, Dieter Appelt, Joseph Beuys, the philosophies of Roland Gérard Barthes, the complete imaginative storytelling prowess of the *Critical Role* cast, the writing of both Neil Gaiman & Nick Flynn, animation from Japan, and anything involving dungeons, dragons, *or* both dungeons ***and*** dragons.
 
-My personal philosophy has long read: ***Light. Changes. Everything.*** 
-
+My personal philosophy has long read: ***Light. Changes. Everything.***
+ 
 ***
 
 ### *Some of my favorite words from the minds of others:* 
+<br>
 
 **"What's past is prologue."**  — *William Shakespeare*
   
@@ -52,7 +53,7 @@ I have an interest in contributing to open source projects, and I want to build 
 ***
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+< align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -65,9 +66,11 @@ I have an interest in contributing to open source projects, and I want to build 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imattking&label=Profile%20views&color=0e75b6&style=flat" alt="imattking" /> </p>
