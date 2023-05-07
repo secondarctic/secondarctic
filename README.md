@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h4 align="left">A passionate software engineer, photographer, artist, traveler, critter, gamer, and avid D&D enthusiast. <em>So, basically I'm a giant nerd.</em></h3>
 
-- 🔭 I’m currently working on [an Open Weather Web App](https://imattking-weather-app.netlify.app/), as well as writing my own Web Scraper API
+- 🔭 I’m currently working on [an Open Weather Web App](https://meteor-weather.netlify.app/), as well as writing my own Web Scraper API
 
 - 🌱 I’m currently learning **Node, Express, Mongo, and React**
 
