@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an Open Weather Web App](https://meteor-weather.netlify.app/), as well as writing my own Web Scraper API
 
-- 🌱 I’m currently learning **Node, Express, Mongo, and React**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 There are a few live demos of my projects available at [imattking.dev](https://imattking.dev)
 
@@ -13,34 +13,33 @@
 
 - 📫 How to reach me: **matt@imattking.com**
 
+I love creating, and building things with code. I can just as easily get lost for hours fine-tuning CSS selectors or iterating through array methods, as I can retouching a photograph, playing a video game, watching an episode of _Critical Role_, or reading a book.
 
-I love creating, and building things with code. I can just as easily get lost for hours fine-tuning CSS selectors or iterating through array methods, as I can retouching a photograph, playing a video game, watching an episode of *Critical Role*, or reading a book. 
+**Software engineering is my passion**, and it is at the forefront of my endeavors! My background is rooted in more _'aesthetic'_ disciplines. I have a Bachelor of Arts in Journalism (specializing in video production) from the University of Georgia, and a Master of Fine Arts in Photography from the Savannah College of Art & Design.
 
-**Software engineering is my passion**, and it is at the forefront of my endeavors! My background is rooted in more *'aesthetic'* disciplines. I have a Bachelor of Arts in Journalism (specializing in video production) from the University of Georgia, and a Master of Fine Arts in Photography from the Savannah College of Art & Design.
+My greatest artistic inspirations can be found in the works of Ansel Adams, Dieter Appelt, Joseph Beuys, the philosophies of Roland Gérard Barthes, the complete imaginative storytelling prowess of the _Critical Role_ cast, the writing of both Neil Gaiman & Nick Flynn, animation from Japan, and anything involving dungeons, dragons, _or_ both dungeons **_and_** dragons.
 
-My greatest artistic inspirations can be found in the works of Ansel Adams, Dieter Appelt, Joseph Beuys, the philosophies of Roland Gérard Barthes, the complete imaginative storytelling prowess of the *Critical Role* cast, the writing of both Neil Gaiman & Nick Flynn, animation from Japan, and anything involving dungeons, dragons, *or* both dungeons ***and*** dragons.
+My personal philosophy has long read: **_Light. Changes. Everything._**
 
-My personal philosophy has long read: ***Light. Changes. Everything.***
- 
-***
+---
 
-### *Some of my favorite words from the minds of others:* 
+### _Some of my favorite words from the minds of others:_
+
 <br>
 
-**"What's past is prologue."**  — *William Shakespeare*
-  
+**"What's past is prologue."** — _William Shakespeare_
 
-**"If I have seen further, it is by standing on the shoulders of giants."** — *Isaac Netwon (by way of those before him)*
+**"If I have seen further, it is by standing on the shoulders of giants."** — _Isaac Netwon (by way of those before him)_
 
-**"I am the master of my fate, <br> I am the captain of my soul."**  — *William Ernest Henley*. 
+**"I am the master of my fate, <br> I am the captain of my soul."** — _William Ernest Henley_.
 
-***
+---
 
-### Going forward: 
+### Going forward:
 
 I have an interest in contributing to open source projects, and I want to build things that help make people's lives better and that make the world better a place.
 
-***
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,7 +49,7 @@ I have an interest in contributing to open source projects, and I want to build 
 <a href="https://instagram.com/imattking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imattking" height="30" width="40" /></a>
 </p>
 
-***
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
