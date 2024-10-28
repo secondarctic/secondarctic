@@ -44,7 +44,7 @@ I have an interest in contributing to open source projects, and I want to build 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/secondarctic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="secondarctic" height="30" width="40" /></a>
-<a href="https://bsky.app/profile/secondarctic.bsky.social" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="imattking" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/secondarctic.bsky.social" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="secondarctic" height="30" width="40" /></a>
 
 <!-- <a href="https://linkedin.com/in/imattking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="secondarctic" height="30" width="40" /></a>
 </p> -->
