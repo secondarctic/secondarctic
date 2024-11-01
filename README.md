@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matt</h1>
+<h1 align="center">Hi 👋, I'm Matthew</h1>
 <h4 align="left">A passionate software engineer, photographer, artist, traveler, critter, gamer, and avid D&D enthusiast. <em>So, basically I'm a giant nerd.</em></h3>
 
 - 🔭 I’m currently working on [an Open Weather Web App](https://meteor-weather.netlify.app/), as well as writing my own Web Scraper API
@@ -72,10 +72,10 @@ I have an interest in contributing to open source projects, and I want to build 
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imattking&label=Profile%20views&color=0e75b6&style=flat" alt="imattking" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=secondarctic&label=Profile%20views&color=0e75b6&style=flat" alt="secondarctic" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imattking&show_icons=true&locale=en&layout=compact" alt="imattking" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=secondarctic&show_icons=true&locale=en&layout=compact" alt="secondarctic" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=imattking&show_icons=true&locale=en" alt="imattking" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=secondarctic&show_icons=true&locale=en" alt="secondarctic" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imattking&" alt="imattking" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=secondarctic&" alt="secondarctic" /></p>
