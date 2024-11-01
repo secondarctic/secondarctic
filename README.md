@@ -11,7 +11,7 @@
 
 - 📸 If you're interested in seeing a few of my photographs you can do that here: [imattking.com](https://imattking.com)
 
-- 📫 How to reach me: **matt@imattking.com**
+- 📫 How to reach me: **second-arctic@outlook.com**
 
 I love creating, and building things with code. I can just as easily get lost for hours fine-tuning CSS selectors or iterating through array methods, as I can retouching a photograph, playing a video game, watching an episode of _Critical Role_, or reading a book.
 
