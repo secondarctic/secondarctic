@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an Open Weather Web App](https://meteor-weather.netlify.app/), as well as writing my own Web Scraper API
 
-- 🌱 I’m currently learning **Next.js and Python**
+- 🌱 I’m currently learning **Svelte and Python**
 
 - 💻 Some of my application testing and other sandboxes can be seen on my [Codepen](https://codepen.io/secondarctic)
 
